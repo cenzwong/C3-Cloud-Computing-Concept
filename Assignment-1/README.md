@@ -32,3 +32,7 @@ Important Dates
 Released: Start of Week 1
 Due: End of Week 5
 
+```
+make
+./Application testcases/msgdropsinglefailure.conf 
+```
